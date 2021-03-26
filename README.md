@@ -3,7 +3,7 @@
 _World History, according to movies and TV shows. So... "World" "History"._
 
 ## What?
-The Cinematic History of the World is a chronological list of moovies and TV shows, arranged by the dates of the events portrayed.
+The Cinematic History of the World is a chronological list of movies and TV shows, arranged by the dates of the events portrayed.
 
 To be included in the list, the media in question should at least give the appearance of attempting to portray real events. Their success in doing so, is not a criterion. 😉
 
